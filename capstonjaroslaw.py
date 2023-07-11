@@ -29,10 +29,10 @@ time.sleep(3)
 input("Press enter to continue")
 
 # function to show countdown time
-x = 10                                                          # start countdown from 5 scond
+x = 10                                                          # start countdown from 10 second
 
 def timing(x):
-  while x >= 0:  # loop every second
+  while x >= 0:                                              # loop every second
     timer = '{:02d}'.format(x)                                # formating time to two digit integer
     print('   ', timer, end="\r")                                # displaying message and time
     time.sleep(1)                                            # stopping timer every second
