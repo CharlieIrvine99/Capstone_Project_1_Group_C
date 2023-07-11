@@ -23,9 +23,9 @@ print(
   'You get 1 point for each correct answer and lose 1 point for a wrong answer.'
 )
 time.sleep(3)
-print('Choose the answer: a, b, c or d.')
-time.sleep(3)
 print('You have 10 second to answer.')
+time.sleep(3)
+print('Choose the answer: a, b, c or d and press "Enter".')
 time.sleep(3)
 input("Press enter to continue")
 
