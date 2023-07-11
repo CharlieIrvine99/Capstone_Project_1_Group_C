@@ -1,0 +1,43 @@
+Question Lists
+
+question X= Question("X", "What is it called when a function is defined in a class?",
+                       {"A": "Module", "B": "Class", "C": "Function", "D": "Method"},
+                       ["D", "Method"],
+                       X,Y)
+
+question X= Question("X", "Who developed the python language?",
+                       {"A": "Albert Einstein", "B": "Bill Gates", "C": Wick Von Rossum", "D": "Gregor Mendel"},
+                       ["C", "Wick Von Rossum"],
+                       X,Y) 
+question X= Question("X", "Which of the following is the correct extension of the python file?",
+                       {"A": ".python", "B": ".py", "C": ".p", "D": "None of these"},
+                       ["B", ".py"],
+                      X,Y)
+
+
+question X= Question("X", "What do we use to define a block of code in Python?",
+                       {"A": "Indentation", "B": "Key", "C": "Curly Brackets", "D": "Square Brackets"},
+                       ["A", "Indentation"],
+                      X,Y) 
+
+question X= Question("X", "Which fruit shares its name with a colour? ,
+                       {"A": "Orange, "B": "Starfruit", "C": "Banana", "D": "Apple"},
+                       ["A", "Orange"]
+                       X,Y)
+
+question X= Question("X", "What was Jane Seymour's Fate? (third wife of Henry the 8th)"
+                       {"A": "Divorce, "B": "Beheaded", "C": "Died", "D": "Survived"},
+                       ["C", "Died"]
+                       X,Y)
+question X= Question("X", "What is the capital of England?"
+                       {"A": "Paris, "B": "London", "C": "Berlin", "D": "Rome"},
+                       ["B", "London"]
+                       X,Y)
+question X= Question("X", "Who won the most Olympic gold medals in history?"
+                       {"A": "Michael Phelps, "B": "Usain Bolt", "C": "Larisa Latynina, "D": Chris Hoy},
+                       ["A", "Michael Phelps"]
+                      X,Y)
+question X= Question("X", "In the game of chess, which piece can only move diagonally?"
+                       {"A": "Rook, "B": "Knight", "C": "Bishop, "D": King},
+                       ["C", "Rook"]
+                      X,Y) 
