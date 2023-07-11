@@ -6,7 +6,8 @@ question = [
   "In the game of chess, which piece can only move diagonally?",
   "Which of these trees is NOT an angiosperm?"
 ]
-answer = [['London', 'Paris', 'Rome', 'Berlin'], ['2', '4', '8', '16'],
+answer = [['London', 'Paris', 'Rome', 'Berlin'], 
+          ['2', '4', '8', '16'],
           ['Apple', 'Banana', 'Orange', 'Watermelon'],
           ['Rook', 'Knight', 'Bishop', 'King'],
           [
