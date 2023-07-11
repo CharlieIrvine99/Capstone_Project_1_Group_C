@@ -34,7 +34,7 @@ x = 10                                                          # start countdow
 def timing(x):
   while x >= 0:  # loop every second
     timer = '{:02d}'.format(x)                                # formating time to two digit integer
-    print('', timer, end="\r")                                # displaying message and time
+    print('   ', timer, end="\r")                                # displaying message and time
     time.sleep(1)                                            # stopping timer every second
     x -= 1                                                    # step down every second
 
