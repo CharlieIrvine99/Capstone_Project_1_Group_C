@@ -301,6 +301,7 @@ score = str(pointTotal)  # here we make the pointTotal a str so that it gets rec
 import csv
 
 # function to save the userScore and name on a csv file to record potential highscores from all that play.
+# creates a new file called highScores.csv if one does not already exist from previous attempts.
 def saveHighScore(name, score):
     with open('highScores.csv', 'a', newline='') as csvfile:
         writer = csv.writer(csvfile)
