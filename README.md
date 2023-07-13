@@ -9,6 +9,11 @@ On the repl there is also an existing folder of highscores. But the code with cr
 
 https://replit.com/@harbinuur/Capstone-1-quiz-with-highscores#main.py
 
+# Link to the GitHub
+
+https://github.com/CharlieIrvine99/Capstone_Project_1_Group_C
+
+
 # The task at hand
 In this project, we will create an interactive quiz game using Python.
 The game will present a series of questions to the player, track their score, and provide feedback on their performance. 
