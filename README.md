@@ -1,6 +1,14 @@
 # Capstone_Project_1_Group_C
  Interactive Quiz for Capstone Project 1
 
+# Link to the replit
+
+The timer we created sometimes doesn't work in certain IDEs, we know it works in Repl, VSCode and Python.
+
+On the repl there is also an existing folder of highscores. But the code with create a new file called highScores.csv to save your highscore.
+
+https://replit.com/@harbinuur/Capstone-1-quiz-with-highscores#main.py
+
 # The task at hand
 In this project, we will create an interactive quiz game using Python.
 The game will present a series of questions to the player, track their score, and provide feedback on their performance. 

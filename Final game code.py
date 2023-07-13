@@ -285,7 +285,7 @@ def saveHighScore(name, score):
   with open('highScores.csv', 'a', newline='') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow([name, score])
-  
+
 saveHighScore(name, score)
 
 print("Here are the scores of everyone who has played this game!")
